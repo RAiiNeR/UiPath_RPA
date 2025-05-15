@@ -1,0 +1,36 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "unicodeCode&Sequence_47",
+        "urlMatch&Sequence_47",
+        "mailBody&Sequence_47",
+        "loginID&Sequence_29",
+        "loginURL&Sequence_42",
+        "matchedRow&Sequence_42",
+        "codeInitial&Sequence_42",
+        "isValid&Sequence_42",
+        "code&Sequence_42",
+        "projectCode&Sequence_42",
+        "codeList&Sequence_42",
+        "loginPw&Sequence_29",
+        "logFile&Flowchart_1",
+        "mailList&Flowchart_1",
+        "Account&Flowchart_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

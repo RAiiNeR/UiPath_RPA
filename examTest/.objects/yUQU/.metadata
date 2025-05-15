@@ -1,0 +1,12 @@
+﻿{
+  "Name": "받은 편지함 - tck_hr@trans-cosmos.co.kr - Outlook",
+  "Type": "App",
+  "Id": "yUQUVa6oNkmbmnzkPGUAnA",
+  "Reference": "ERHAWKFUVUK8KsH-P9x47w/yUQUVa6oNkmbmnzkPGUAnA",
+  "Created": "2025-05-15T05:37:26.0238449Z",
+  "Updated": "2025-05-15T05:37:26.0238449Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
